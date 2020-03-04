@@ -24,9 +24,7 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Rachmad presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+						“Design is the silent ambassador of your brand.” (Paul Rand)
 					</div>
 					<div class={style.author}>- The Local Newspaper</div>
 				</div>
