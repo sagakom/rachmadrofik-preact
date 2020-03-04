@@ -33,13 +33,10 @@ const Home = () => {
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in
-					reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-					pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.
+					“Design is the silent ambassador of your brand.” (Paul Rand)
+					“Mass advertising can help build brands, but authenticity is what makes them last. If people believe they share values with a company, they will stay loyal to the brand.” (Howard Schultz)
+					“A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.” (Jeff Bezos)
+
 				</p>
 				<p class={style.bioright}>
 					Sed ut perspiciatis unde omnis iste natus error sit voluptatem
